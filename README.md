@@ -1,5 +1,4 @@
 # QuizApp-IndiGG
-
 The Quiz Website is a web application that allows users to take a quiz consisting of multiple-choice questions. It provides a user-friendly interface and tracks the user's score as they progress through the quiz.
 
 ## Table of Contents
